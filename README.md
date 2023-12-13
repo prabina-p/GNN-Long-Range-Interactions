@@ -23,6 +23,8 @@ Project
 3. On the terminal, run ```pip install -r requirements.txt``` to obtain necessary packages to run the code.
 4. Next, run ```python scripts.py```. This will run the four models on all four datasets. You can have the output.txt file open and view accuracy change in real time. Keep in mind that since epochs is 500, it will take roughly an hour to two to complete running this code.
 
+output.txt already contains demo text with some accuracies so you can view it before running the code. Keep in mind to delete the output.txt before running ```python scripts.py``` to avoid appending on demo text.
+
 
 **References**
 
