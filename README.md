@@ -7,11 +7,12 @@ This project provides an exploration on baseline Graph Neural Network (GNN) mode
 
 **Structure**
 
-Project/
+Project
 ├── README.md
 ├── output.txt
-├── examples.ipynb
-└── script.py
+├── requirements.txt
+├── scripts.py
+└── examples.ipynb
 
 
 **Project Usage**
